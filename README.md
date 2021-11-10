@@ -1,2 +1,2 @@
 # Transfer-learning
-Transfer learning_liu
+HUA WEI Competition 
